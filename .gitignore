@@ -1,0 +1,12 @@
+# Only the reviewed static asset allowlist may be tracked.
+*
+!/.gitignore
+!/.nojekyll
+!/README.md
+!/index.html
+!/phone.mjs
+!/protocol.mjs
+!/style.css
+!/vendor/
+!/vendor/qrcode.js
+!/vendor/qrcode-LICENSE
